@@ -20,7 +20,8 @@ Siga estas etapas para colocar o projeto de pé:
     - APP_NAME: O nome do seu projeto.
     - DB_HOST: Geralmente db ou mysql (o nome do serviço no docker-compose).
     - REDIS_HOST: Geralmente redis.
-      <img width="207" height="141" alt="image" src="https://github.com/user-attachments/assets/2ff2e6de-3de4-455a-ae62-bc6fc75c2030" />
+    
+   <img width="207" height="141" alt="image" src="https://github.com/user-attachments/assets/2ff2e6de-3de4-455a-ae62-bc6fc75c2030" />
 
 
 3. Subir os Containers
